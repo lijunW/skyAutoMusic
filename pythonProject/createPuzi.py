@@ -62,10 +62,10 @@ def createPuzi_pro(name):
 
         b = symbol["b"]
 
-        t = 5
+        t = 4
         if "t" in symbol:
             t = symbol["t"]
-        commonSpace = 140 * t
+        commonSpace = 90 * t
         common_delay = touch.delay(commonSpace)
 
         if isinstance(b,str):

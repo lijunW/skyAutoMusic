@@ -18,7 +18,9 @@ if __name__ == '__main__':
 
 # createPuzi.createPuzi_pro("flowerDance")
 # createPuzi.createPuzi()
-createPuzi.createPuzi_pro("tkzc")
+# createPuzi.createPuzi_pro("tkzc")
+createPuzi.createPuzi_pro("MeritChristmas")
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
